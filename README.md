@@ -1,5 +1,5 @@
-
-Here Is IP Calculator which contains majour details of the Ip Address Having The small fiunctionalities like :
+# IP Calculator By SHREE
+# Here Is IP Calculator which contains majour details of the Ip Address Having The small fiunctionalities like :
 
   1. To convert the the Ip Address in binary bits
   2. Get the default subnetgetway
